@@ -22,4 +22,4 @@
 
 # 플레이 영상
 
-https://www.youtube.com/watch?v=Uywzko8y0TI&t=1s
+[![Video Label](http://img.youtube.com/vi/Uywzko8y0TI&t=1s/0.jpg)](https://youtu.be/Uywzko8y0TI&t=1s)
